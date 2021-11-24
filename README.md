@@ -1,4 +1,4 @@
-# Protein Ligand Docking Analysis
+# Protein Ligand Interaction Analysis
 
 # Acknowledgement
 The PL-Docking.py was written and tested by Dr. Sambit K. Mishra following a series of discussion with me at Center for Molecular Biophysics of Oak Ridge National Laboratory.
